@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Дружочек-пирожочек, кажется ты ошибся БД. Введи свое имя!");
+             Console.WriteLine("Дружочек-пирожочек, кажется ты ошибся парой. Введи свое имя!");
                 string name = Console.ReadLine();
             int tryingLaba = 0;
             bool isGotKey = false;
